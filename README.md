@@ -69,7 +69,7 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nithyasreeee&theme=radical" alt="GitHub streak" />
   <br />
-  <img src="https://ghchart.rshah.org/00bfa6/nithyasreeee" alt="GitHub chart" />
+ 
 
 </p>
 
